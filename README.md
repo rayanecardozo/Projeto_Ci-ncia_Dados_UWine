@@ -28,7 +28,7 @@ Como *Data Science Consultant* do clube de vinhos UVVine, o projeto analisa a ba
 
 ## Como executar
 
-1. Abra o `WORKFLOW_PARTE_2.ipynb` no Google Colab (ou no Jupyter local).
+1. Abra o `rojeto_UWine_PARTE_2.ipynb` no Google Colab (ou no Jupyter local).
 2. Faça o upload do `table49.csv` (ou monte o Google Drive e ajuste `CAMINHO_CSV` na primeira célula de código).
 3. Execute todas as células em ordem (*Ambiente de execução → Executar tudo*). O tempo total é de cerca de 5 minutos.
 
