@@ -19,10 +19,8 @@ Como *Data Science Consultant* do clube de vinhos UVVine, o projeto analisa a ba
 
 ```
 ├── README.md
-├── WORKFLOW_PARTE_1.ipynb     # Parte 1 – estatística e amostragem
-├── WORKFLOW_PARTE_2.ipynb     # Parte 2 – machine learning (executado)
-├── AOP1.pdf                   # entrega da Parte 1
-├── AOP2.pdf                   # entrega da Parte 2
+├── Projeto_UWine.ipynb             # Parte 1 – estatística e amostragem
+├── Projeto_UWine_PARTE_2.ipynb     # Parte 2 – machine learning 
 └── requirements.txt
 ```
 
