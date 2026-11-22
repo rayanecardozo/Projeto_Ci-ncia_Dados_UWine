@@ -1,4 +1,4 @@
-# Projeto UVVine – Data Science Project (Partes 1 e 2)
+# Projeto Uwine – Data Science  (Partes 1 e 2)
 
 **Aluna:** Rayane Cardozo Gama Botelho
 **Curso:** Ciência de Dados – Universidade Vila Velha (UVV)
